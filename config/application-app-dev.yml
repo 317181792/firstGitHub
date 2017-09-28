@@ -1,10 +1,4 @@
-#spring:
-#  druid:
-#    datasource:
-#      driver-class-name: com.mysql.jdbc.Driver
-#      url: jdbc:mysql://192.168.1.41:3306/dev_anti_poverty_1_0
-#      username: yzh
-#      password: yzh123
+
 spring:
   druid:
     datasource:
@@ -18,7 +12,6 @@ spring:
         url: jdbc:mysql://192.168.1.41:3306/dev_anti_poverty_1_0
         username: yzh
         password: yzh123
-
 eureka:
   client:
     serviceUrl:
