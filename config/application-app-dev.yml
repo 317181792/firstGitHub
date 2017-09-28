@@ -19,4 +19,5 @@ eureka:
 feign:
   hystrix:
     enabled: true
-
+yang:
+  gen: 999888
